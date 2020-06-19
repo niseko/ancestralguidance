@@ -17,7 +17,7 @@
         <link href="https://niseko.github.io/ancestralguidance/this-is-text/"/>
         <id>https://niseko.github.io/ancestralguidance/this-is-text/</id>
 
-        <updated>2020-06-19T16:14:04+02:00</updated>
+        <updated>2020-06-19T16:29:22+02:00</updated>
             <summary>
                 <![CDATA[
                     OkYeah Yeah ok bro console.log(&quot;test&quot;);what about this?
@@ -54,17 +54,20 @@
         <id>https://niseko.github.io/ancestralguidance/nzoth-the-corruptor/</id>
             <category term="Boss Guides"/>
 
-        <updated>2020-06-19T16:14:04+02:00</updated>
+        <updated>2020-06-19T16:29:22+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://niseko.github.io/ancestralguidance/media/posts/81/nzoth.jpg" alt="" />
-                    Phase 3 - Thought HarvestersThis phase is very similar to Phase 2, so I will instead only talk about the differences between the two phases. Healing CD's should roughly mimic what you did in Phase 2. Evoke Anguish 1 - Drop these pools to the&hellip;
+                    <p>Short Excerpt of Nzoth Article.</p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://niseko.github.io/ancestralguidance/media/posts/81/nzoth.jpg" alt="" />
-                <div class="post__toc">
+                <p>Short Excerpt of Nzoth Article.</p>
+
+<div class="post__toc">
 <h3>Table of Contents</h3>
 <ul>
 <li><a href="#mcetoc_1eb6dvp5oji">Fight Mechanics</a>
@@ -83,6 +86,8 @@
 <hr>
 <h1 id="mcetoc_1eb6dvp5oji">Fight Mechanics</h1>
 <p class="msg--highlight  dropcap">This is a much longer fight than any of the previous encounters this tier, and the phases are quite different so I am going to separate each phase into its own section to avoid confusion as much as possible. A large change from Heroic is that while each player still has access to their <a href="https://www.wowhead.com/spell=318761/azeroths-radiance">Heart of Azeroth</a> via an extra-action Boss Button, each player can only use their neck once in the fight and it will instead restore 25 sanity to everyone in a small area around you. More on neck usage in each of the phase breakdowns below.</p>
+<figure class="post__video"><video loading="lazy" width="300" height="150" controls="controls" data-mce-fragment="1">
+<source src="https://cdn.discordapp.com/attachments/458177772846710787/723527868700950528/video0_66.mp4" type="video/mp4" /></video></figure>
 <hr>
 <h2 id="mcetoc_1eb6dvp5ojj">Phase 1 - Psychus</h2>
 <p class="msg msg--success">This phase consists of roughly the first half of the fight, ending around 6:00 into the fight, and is likely where you're to spend most of your time during progression. There are 2 different <a href="https://www.wowhead.com/npc=158376/psychus">Psychus</a> groups in this phase separated by a 'burn' phase on N'zoth, and each of these 'phases' are mirrored to each other - Group 1 will enter their <a href="https://www.wowhead.com/spell=309046/mindgate">Mindgate</a> on the West side of the room while Group 2 will later enter their <a href="https://www.wowhead.com/spell=309046/mindgate">Mindgate</a> on the East side of the room. <a href="https://www.wowhead.com/npc=158367/basher-tentacle">Basher Tentacle</a> spawn locations are fixed in this phase, but some of the tentacles such as the <a href="https://www.wowhead.com/npc=160249/spike-tentacle">Spike</a> and <a href="https://www.wowhead.com/npc=158375/corruptor-tentacle">Corruptor tentacles</a> can spawn in various locations around their respective <a href="https://www.wowhead.com/npc=158367/basher-tentacle">Basher Tentacles</a>. Tanks should always be tanking the <a href="https://www.wowhead.com/npc=158367/basher-tentacle">Basher Tentacles</a> and rotate through cooldowns as they do significant tank damage, while everyone else will be focused on killing off the <a href="https://www.wowhead.com/npc=158375/corruptor-tentacle">Corruptor</a> and <a href="https://www.wowhead.com/npc=160249/spike-tentacle">Spike tentacles</a> and dealing with mechanics like <a href="https://www.wowhead.com/spell=309980/paranoia">Paranoia</a>. To give a TLDR of the order of events, you will begin killing 2 different <a href="https://www.wowhead.com/npc=158367/basher-tentacle">Basher Tentacle</a> groups, <a href="https://www.wowhead.com/spell=309980/paranoia">Paranoia</a> will occur, and you will travel to the opposite side of the room to deal with 2 additional <a href="https://www.wowhead.com/npc=158367/basher-tentacle">Basher Tentacle</a> groups. After this is when the first <a href="https://www.wowhead.com/npc=158376/psychus">Psychus</a> group will enter their <a href="https://www.wowhead.com/spell=309046/mindgate">Mindgate</a>. The groups of players who do not enter the <a href="https://www.wowhead.com/npc=158376/psychus">Psychus</a> phase will instead deal with 2 additional <a href="https://www.wowhead.com/npc=158367/basher-tentacle">Basher Tentacle</a> groups on their own, separated by another <a href="https://www.wowhead.com/spell=309980/paranoia">Paranoia</a> followed by a <a href="https://www.wowhead.com/spell=315772/mindgrasp">Mindgrasp</a>. It is worth noting that before the <a href="https://www.wowhead.com/spell=315772/mindgrasp">Mindgrasp </a>there will be many <a href="https://www.wowhead.com/spell=318896/corrupted-neuron">Corrupted Neurons</a> - you can use hard CC like Banish, Stuns, and Blinds to avoid having to kill every single one of these, allowing you to have much more room. </p>
@@ -775,11 +780,11 @@
         <id>https://niseko.github.io/ancestralguidance/ilgynoth/</id>
             <category term="Boss Guides"/>
 
-        <updated>2020-06-19T16:14:04+02:00</updated>
+        <updated>2020-06-19T16:29:22+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://niseko.github.io/ancestralguidance/media/posts/79/ilgynoth.jpg" alt="" />
-                    Fight MechanicsPlease note: This boss has two very different strategies that will change the way you heal this fight. For simplicity I will cover the no dispel strategy as it is what most guilds have opted to use for their first kill. I will post&hellip;
+                    Fight MechanicsPlease note: This boss has two very different strategies that will change the way you heal this fight. For simplicity I will cover the no dispel strategy as it is what most guilds have opted to use for their first kill. I will post a few notes under the Healing Tips section regarding the dispel strategy. Mythic Il'gynoth is very similar to its heroic version; the fight does not have very many mechanics, but each of the mechanics are important for every player. The most common strategy is to never dispel Cursed Blood so eventually every single player will have Cursed Blood on them. This means that every player will need to be spread out at least 11 yards, which makes it very hard, if not impossible, to use spells like Chain Heal and Healing Rain effectively. This does, however, eliminate the majority of the mind controls from Touch of the Corruptor, which means you only have to deal with the mechanic once. Periodically 3 players will be targetted by Corruptor's Gaze, making them kite around the beam that spawns beneath them, leaving behind a pool of Morass which will silence and deal a good amount of damage if you step in the pools. Each player should try to stay near previous Morass puddles to maximize the amount of space in the room while staying at least 11 yards apart to prevent Cursed Blood from cleaving. When Il'gynoth dies, it will spawn 3 Organs of Corruption which will cast Pumping Blood roughly every 12 seconds - as a shaman you can solo kick one of these Organs by yourself, and you should do so for at least the first group that spawns so that the majority of your dps can be on one of the Organs. If Pumping Blood finishes&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -815,11 +820,11 @@
         <id>https://niseko.github.io/ancestralguidance/carapace-of-nzoth/</id>
             <category term="Boss Guides"/>
 
-        <updated>2020-06-19T16:14:04+02:00</updated>
+        <updated>2020-06-19T16:29:22+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://niseko.github.io/ancestralguidance/media/posts/80/carapace.jpg" alt="" />
-                    Fight MechanicsThis is a 3 Phase encounter and each phase is pretty unique, so I am going to breakdown each phase on its own. Phase 1: In this phase you'll have access to your on-use cloak as an additional boss button in the fight that&hellip;
+                    Fight MechanicsThis is a 3 Phase encounter and each phase is pretty unique, so I am going to breakdown each phase on its own. Phase 1: In this phase you'll have access to your on-use cloak as an additional boss button in the fight that will restore all of your Sanity and instantly heal you to full. This phase is similar to its heroic version, however the tentacles that slam the ground spawn in set locations on Mythic, making this phase even more scripted than its heroic version. The first set of tentacles that spawn will have 4 tentacles - 2 of them slam down in the front and 2 of them slam down in the back, separated by a small gap in the center. You still need to kill all of the Horrific Hemorrhages that spawn on them so that they disappear. The second set of tentacles will spawn in a V formation, cutting off your ability to get to the back of the room near Wrathion. To counter this, you can either leave before the tentacles slam down, or use your cloak to teleport to the back of the room. There will also be 2 Gaze of Madness adds each time they spawn, and each needs to be killed quickly to limit the sanity loss and damage that they deal. Generally you want to interrupt each of them at least once as soon as the channel of Breed Madness has begun (not the cast of the spell) to limit sanity drain and damage done. Like heroic, Madness Bomb will periodically fear 3 players, so if you or someone you're close to is affected you can use Tremor Totem to break the fear. Phase 2: At the start of Phase 2 every players sanity will reset for the final&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -862,11 +867,11 @@
         <id>https://niseko.github.io/ancestralguidance/drestagath/</id>
             <category term="Boss Guides"/>
 
-        <updated>2020-06-19T16:14:04+02:00</updated>
+        <updated>2020-06-19T16:29:22+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://niseko.github.io/ancestralguidance/media/posts/77/drestagath.jpg" alt="" />
-                    Fight MechanicsThis fight does not change much from its Heroic difficulty, instead there are just more adds that spawn and failing to keep them under control will eventually cause your raid to wipe. There are 3 types of adds, the Tentacle of Drest'agath, the Eye&hellip;
+                    Fight MechanicsThis fight does not change much from its Heroic difficulty, instead there are just more adds that spawn and failing to keep them under control will eventually cause your raid to wipe. There are 3 types of adds, the Tentacle of Drest'agath, the Eye of Drest'agath, and the Maw of Drest'agath. The Tentacles are generally the most important adds to manage on the fight because they periodically cast Entropic Crash along with the boss which will deal heavy falloff damage to the entire raid. Having too many Tentacles alive at once can easily cause a wipe, so they should generally be the first thing your group tries to kill. The Maws of Drest'agath will periodically cast Acid Splash, which will do AoE damage on a targetted player. The Maws will also apply a healing absorb to players who are close to them, so ranged DPS should primarily focus these adds down while the melee keep the Tentacles under control. The Eyes of Drest'agath will randomly target a player in line of sight and channel Mind Flay on them which does a good amount of damage over time to the player. Because the Eyes can be interrupted, they should be the last of the adds your group should worry about. Each time an add is killed it will trigger its Death Throes ability, causing all similar add types to also trigger their ability at the same time. Generally, this is not too dangerous to worry about, but if you have multiple of one add type alive it is something you should be aware of. The tanks will take turns debuffing the adds with Volatile Seed - this will debuff you if you are within the circle when it expires, so make sure you are giving your tanks room to drop&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -898,11 +903,11 @@
         <id>https://niseko.github.io/ancestralguidance/xanesh/</id>
             <category term="Boss Guides"/>
 
-        <updated>2020-06-19T16:14:04+02:00</updated>
+        <updated>2020-06-19T16:29:22+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://niseko.github.io/ancestralguidance/media/posts/74/xanesh.jpg" alt="" />
-                    Fight MechanicsThis is a 1 Phase encounter that all revolves around the Void Ritual mechanic. On Mythic the big change is every player that is hit by the Void Orb will spawn an Awakened Terror add that repeatedly casts Terror Wave that will fear everyone&hellip;
+                    Fight MechanicsThis is a 1 Phase encounter that all revolves around the Void Ritual mechanic. On Mythic the big change is every player that is hit by the Void Orb will spawn an Awakened Terror add that repeatedly casts Terror Wave that will fear everyone for 3 seconds if the cast completes. To avoid being feared, you should have a kick rotation set up for each of the 3 adds that spawn, with ranged kicks prioritizing the 2nd and 3rd adds as the boss will be too far away to allow melee to interrupt them right away. As for Void Ritual, there are 4 sets that will occur on Mythic, each of them will have the exact same pillar spawns each time. The only thing that changes is the position of the Void Orb spawn and the 'goal' may swap positions. It is also important to note that sets 1 and 4 are identical, so once your first group has successfully scored a goal it may be worthwhile to allow your fourth group to have a few tries to minimize wipes later on. All of the other mechanics such as Torment, Soul Flay, and the ticking damage from Anguish all remain from Heroic difficulty. A standard talent setup is fine for this fight. You may opt to use Wind Rush Totem if you feel your group needs help moving during Torment. Anguish and Soul Flay are the only real sources of damage on the fight, however the group will remain stacked up for most of the fight so typical traits such as Spouting Spirits, Overflowing Shores, Heart of Darkness, among others, are all fine for this fight. For essences, there is constant ticking damage so I'd recommend taking the Vision of Perfection major.Healing Tips While the fight does require a fair&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -935,11 +940,11 @@
         <id>https://niseko.github.io/ancestralguidance/shadhar/</id>
             <category term="Boss Guides"/>
 
-        <updated>2020-06-19T16:14:04+02:00</updated>
+        <updated>2020-06-19T16:29:22+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://niseko.github.io/ancestralguidance/media/posts/73/shadar.jpg" alt="" />
-                    Fight MechanicsThis is a 3 Phase encounter that phases at 67% and 33%. A few of the abilities such as Debilitating Spit and the Living Miasma add occur throughout the entire fight while some of the other mechanics are tied to a specific phase. If&hellip;
+                    Fight MechanicsThis is a 3 Phase encounter that phases at 67% and 33%. A few of the abilities such as Debilitating Spit and the Living Miasma add occur throughout the entire fight while some of the other mechanics are tied to a specific phase. If you are targetted by the Living Miasma add you will need to receive some sort of movement freeing ability like a Paladin's Freedom to allow you to position yourself away from the group to reduce the damage done by Slurry Outburst. Additionally on Mythic, the Slurry Outburst will spawn a Tasty Morsel that will need to be fed to Shad'har to reduce his Hungry stacks. If he reaches 10 stacks he will enrage, however not every player will need to feed on every Slurry Outburst. Generally, every other player will end up feeding Shad'har their Tasty Morsel. Also, the first player to get Debilitating Spit each cast will receive 4 stacks of it - this player will take a large amount of damage and will need some additional healing. In Phase 1 Shad'har will have access to Umbral Breath and Umbral Mantle. Throughout this phase Umbral Mantle will spawn random pools around the room that need to be dodged, and the frequency that these occur will gradually increase as the fight progresses, so it's important to try and get out of this phase quickly if you can. Umbral Breath will target a random player, so you should be evenly spread out around the room to prevent always having to move every time the breath is cast. When Phase 2 begins Shad'har will run to eat his Entropic Mantle which will gradually build up over time and give him access to Entropic Breath and Entropic Buildup. This is probably the hardest phase as Entropic Breath reduces&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -975,11 +980,11 @@
         <id>https://niseko.github.io/ancestralguidance/ra-den/</id>
             <category term="Boss Guides"/>
 
-        <updated>2020-06-19T16:14:04+02:00</updated>
+        <updated>2020-06-19T16:29:22+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://niseko.github.io/ancestralguidance/media/posts/76/raden.jpg" alt="" />
-                    Fight MechanicsThis is a 2 Phase encounter, but I'm going to break up Phase 1 into the different orb mechanics you'll be dealing with for each set of Essences that spawn. When an Essence is absorbed there are 3 different things that happen per essence:&hellip;
+                    Fight MechanicsThis is a 2 Phase encounter, but I'm going to break up Phase 1 into the different orb mechanics you'll be dealing with for each set of Essences that spawn. When an Essence is absorbed there are 3 different things that happen per essence: An add will spawn, there will be an initial burst of damage or healing absorb applied, and players will be affected by that Essences' mechanic which will need to be dealt with. Phase 1 - Kill Void, Absorb Nightmare and Vita: This is what most guilds opt to do for their 1st set of Essence spawns. When the boss absorbs Nightmare, players will need to be spread by 5 yards to avoid cleaving with Unleashed Nightmare, a Night Terror will spawn, and 5 stacks of Unstable Nightmare will affect a random player. The player with Unstable Nightmare will want to run close to melee so that melee can start rotating through the Unstable Nightmare mechanic. Additionally, Vita will be absorbed causing Unleashed Vita to do initial heavy damage, a Crackling Stalker to spawn, and Unstable Vita to affect a random player. The player with Unstable Vita should go to your designated first marker to allow the next person in the ranged group to take the next hit. Any players not dealing with either Unstable Nightmare or Unstable Vita need to be killing the Crackling Stalker &gt; Boss &gt; Night Terror. Phase 1 - Kill Vita, Absorb Nightmare and Void: This is what most guilds opt to do for their 2nd set of Essence spawns. The boss will again absorb Nightmare so the same mechanics will apply - the only change is that most groups opt to have their ranged deal with the Unstable Nightmare mechanic this time, as melee have a far easier time to&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -1019,11 +1024,11 @@ When the boss absorbs Void it will trigger <a href="https://www.wowhead.com/spel
         <id>https://niseko.github.io/ancestralguidance/vexiona/</id>
             <category term="Boss Guides"/>
 
-        <updated>2020-06-19T16:14:04+02:00</updated>
+        <updated>2020-06-19T16:29:22+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://niseko.github.io/ancestralguidance/media/posts/75/vexiona.jpg" alt="" />
-                    Fight MechanicsThis is really a 2 phase encounter separated by intermissions. When the boss reaches 100 energy he will cast Twilight Decimator, causing him to breathe lethal damage onto 3 separate areas of the room (outer, middle, or inner/stairs). These areas run left and right,&hellip;
+                    Fight MechanicsThis is really a 2 phase encounter separated by intermissions. When the boss reaches 100 energy he will cast Twilight Decimator, causing him to breathe lethal damage onto 3 separate areas of the room (outer, middle, or inner/stairs). These areas run left and right, and Vexiona will always target a player with Twilight Decimator, meaning it's able to be baited. You should group up at one location and move to the next - we opted to start on the outside, move to inner/stairs, next to middle, and finally back to the outside because the breath does not completely disappear by the time the next one has begun, so this always gave us a 'safe' area to move to. Throughout the entire fight players will be affected by Encroaching Shadows and need to drop off pools - you should try to save as much room as possible early on. In Phase 1 there will be adds that spawn from the Dark Gateway casts, which also does some raid-wide damage. On Mythic the new add is the Enforcer, which repeatedly casts Brutal Smash, and grips players to him periodically. Brutal Smash does lethal damage, so you should avoid it if at all possible, and players who are gripped need to be ready to use their Ashjra'kamas, Shroud of Resolve to remove any movement slowing abilities they may receive. Despair is also present in Phase 1, which does AoE damage equal to the amount of missing health the tank has when it expires - this means the tank should be as close to 100% as possible when Despair expires to reduce damage taken. The Twilight Decimator intermissions happen roughly twice in the first phase. At 40% the boss will transition into the last phase, requiring players to be near another player to&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -1059,11 +1064,11 @@ When the boss absorbs Void it will trigger <a href="https://www.wowhead.com/spel
         <id>https://niseko.github.io/ancestralguidance/hivemind/</id>
             <category term="Boss Guides"/>
 
-        <updated>2020-06-19T16:14:04+02:00</updated>
+        <updated>2020-06-19T16:29:22+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://niseko.github.io/ancestralguidance/media/posts/72/hivemind.jpg" alt="" />
-                    Fight MechanicsThe Hivemind is a 1 Phase encounter, however each boss will gain unique abilities whenever they control the Hivemind. Right away Tek'ris will gain control of the Hivemind by casting Tek'ris's Hivemind Control. This will do a large amount of raid-wide damage and require&hellip;
+                    Fight MechanicsThe Hivemind is a 1 Phase encounter, however each boss will gain unique abilities whenever they control the Hivemind. Right away Tek'ris will gain control of the Hivemind by casting Tek'ris's Hivemind Control. This will do a large amount of raid-wide damage and require the bosses to be at least within 20 yards of each other. Additionally, any adds that spawn under Tek'ris's control will gain damage and movement speed every second that they're alive, so it's important to kill them quickly once they are stacked up to prevent running out of room due to the Acidic Blood they drop when killed. Both Echoing Void and Spawn Acidic Aqir happen throughout the fight regardless of who has control of the Hivemind, so it is important to properly spread or dodge these abilities when they're active. The bosses will swap control of the Hivemind roughly every 1:15 which will always cause heavy raid-wide damage, and this is what you should be saving your healing CD's for. When Ka'zir's Hivemind Control is cast, the bosses will need to be separated by at least 20 yards or they will reduce their damage taken by 99%. Additionally, any adds that are active during this time will heal for 3% of their health per second, so adds need to be focused down or else you will start to become overwhelmed. Ka'zir will also cast Mind-Numbing Nova throughout the fight that needs to be interrupted - shamans are excellent at this because Wind Shear has a low cooldown, however anyone is capable of doing this paired with whoever is tanking the boss. Ka'zir will also buff one of the adds and they will start a 20-second Volatile Eruption cast. This will deal heavy damage but will not overlap with the Devouring Frenzy damage, so unless&hellip;
                 ]]>
             </summary>
         <content type="html">
