@@ -17,7 +17,7 @@
         <link href="https://niseko.github.io/ancestralguidance/this-is-text/"/>
         <id>https://niseko.github.io/ancestralguidance/this-is-text/</id>
 
-        <updated>2020-06-19T16:29:22+02:00</updated>
+        <updated>2020-06-19T16:45:37+02:00</updated>
             <summary>
                 <![CDATA[
                     OkYeah Yeah ok bro console.log(&quot;test&quot;);what about this?
@@ -54,7 +54,7 @@
         <id>https://niseko.github.io/ancestralguidance/nzoth-the-corruptor/</id>
             <category term="Boss Guides"/>
 
-        <updated>2020-06-19T16:29:22+02:00</updated>
+        <updated>2020-06-19T16:45:37+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://niseko.github.io/ancestralguidance/media/posts/81/nzoth.jpg" alt="" />
@@ -72,7 +72,7 @@
 <ul>
 <li><a href="#mcetoc_1eb6dvp5oji">Fight Mechanics</a>
 <ul>
-<li><a href="#mcetoc_1eb6dvp5ojj">Phase 1 - Psychus</a></li>
+<li><a href="#phase_1_psychus">Phase 1 - Psychus</a></li>
 <li><a href="#mcetoc_1eb6dvp5ojk">Phase 2 - Thought Harvesters</a></li>
 <li><a href="#mcetoc_1eb6dvp5ojl">Mythic-Only Secret Phase</a></li>
 <li><a href="#mcetoc_1eb6dvp5ojm">Phase 3 - Thought Harvesters</a></li>
@@ -89,13 +89,32 @@
 <figure class="post__video"><video loading="lazy" width="300" height="150" controls="controls" data-mce-fragment="1">
 <source src="https://cdn.discordapp.com/attachments/458177772846710787/723527868700950528/video0_66.mp4" type="video/mp4" /></video></figure>
 <hr>
-<h2 id="mcetoc_1eb6dvp5ojj">Phase 1 - Psychus</h2>
+<h2 id="phase_1_psychus">Phase 1 - Psychus</h2>
 <p class="msg msg--success">This phase consists of roughly the first half of the fight, ending around 6:00 into the fight, and is likely where you're to spend most of your time during progression. There are 2 different <a href="https://www.wowhead.com/npc=158376/psychus">Psychus</a> groups in this phase separated by a 'burn' phase on N'zoth, and each of these 'phases' are mirrored to each other - Group 1 will enter their <a href="https://www.wowhead.com/spell=309046/mindgate">Mindgate</a> on the West side of the room while Group 2 will later enter their <a href="https://www.wowhead.com/spell=309046/mindgate">Mindgate</a> on the East side of the room. <a href="https://www.wowhead.com/npc=158367/basher-tentacle">Basher Tentacle</a> spawn locations are fixed in this phase, but some of the tentacles such as the <a href="https://www.wowhead.com/npc=160249/spike-tentacle">Spike</a> and <a href="https://www.wowhead.com/npc=158375/corruptor-tentacle">Corruptor tentacles</a> can spawn in various locations around their respective <a href="https://www.wowhead.com/npc=158367/basher-tentacle">Basher Tentacles</a>. Tanks should always be tanking the <a href="https://www.wowhead.com/npc=158367/basher-tentacle">Basher Tentacles</a> and rotate through cooldowns as they do significant tank damage, while everyone else will be focused on killing off the <a href="https://www.wowhead.com/npc=158375/corruptor-tentacle">Corruptor</a> and <a href="https://www.wowhead.com/npc=160249/spike-tentacle">Spike tentacles</a> and dealing with mechanics like <a href="https://www.wowhead.com/spell=309980/paranoia">Paranoia</a>. To give a TLDR of the order of events, you will begin killing 2 different <a href="https://www.wowhead.com/npc=158367/basher-tentacle">Basher Tentacle</a> groups, <a href="https://www.wowhead.com/spell=309980/paranoia">Paranoia</a> will occur, and you will travel to the opposite side of the room to deal with 2 additional <a href="https://www.wowhead.com/npc=158367/basher-tentacle">Basher Tentacle</a> groups. After this is when the first <a href="https://www.wowhead.com/npc=158376/psychus">Psychus</a> group will enter their <a href="https://www.wowhead.com/spell=309046/mindgate">Mindgate</a>. The groups of players who do not enter the <a href="https://www.wowhead.com/npc=158376/psychus">Psychus</a> phase will instead deal with 2 additional <a href="https://www.wowhead.com/npc=158367/basher-tentacle">Basher Tentacle</a> groups on their own, separated by another <a href="https://www.wowhead.com/spell=309980/paranoia">Paranoia</a> followed by a <a href="https://www.wowhead.com/spell=315772/mindgrasp">Mindgrasp</a>. It is worth noting that before the <a href="https://www.wowhead.com/spell=315772/mindgrasp">Mindgrasp </a>there will be many <a href="https://www.wowhead.com/spell=318896/corrupted-neuron">Corrupted Neurons</a> - you can use hard CC like Banish, Stuns, and Blinds to avoid having to kill every single one of these, allowing you to have much more room. </p>
 <p class="msg msg--highlight "><strong>Psychus 1</strong> - 8 players should go into the first <a href="https://www.wowhead.com/npc=158376/psychus">Psychus</a> phase and kill up to 8 of the <a href="https://www.wowhead.com/npc=159578/exposed-synapse">Exposed Synapses</a> to defeat <a href="https://www.wowhead.com/npc=158376/psychus">Psychus</a>. The group should consist of 1 healer, 1 tank, and 6 DPS, and you will likely need to assign cooldowns to successfully defeat <a href="https://www.wowhead.com/npc=158376/psychus">Psychus</a> before you run out of room. About halfway through this phase this group will use <a href="https://www.wowhead.com/spell=2825/bloodlust">Bloodlust</a> / <a href="https://www.wowhead.com/spell=32182/heroism">Heroism</a> as you will get a 2nd use at the end of the fight. <a href="https://www.wowhead.com/npc=163947/psychophage">Psychophage</a> adds will periodically cast <a href="https://www.wowhead.com/spell=318771/devour-thoughts">Devour Thoughts</a> which will deal damage and drain sanity - you must avoid these as well as the <a href="https://www.wowhead.com/spell=313793/flames-of-insanity">Cataclysmic Flames</a> swirls on the floor to avoid losing all of your sanity in this phase. Once <a href="https://www.wowhead.com/npc=158376/psychus">Psychus</a> is defeated, you can click on your body to <a href="https://www.wowhead.com/spell=309307/restore-consciousness">Restore Consciousness</a> and begin the first N'zoth burn phase. At the end of this burn phase you should use 2 of your <a href="https://www.wowhead.com/spell=318761/azeroths-radiance">Heart of Azeroth</a>'s to 'reset' everyone's sanity back to 100 before the next set of tentacles spawn.</p>
 <p class="msg msg--info">After the first burn phase has completed, the fight will then repeat itself but you will begin on the opposite side of the room. To give a TLDR of the order of events, you will begin killing 2 different <a href="https://www.wowhead.com/npc=158367/basher-tentacle">Basher Tentacle</a> groups, <a href="https://www.wowhead.com/spell=309980/paranoia">Paranoia</a> will occur, and you will travel to the opposite side of the room to deal with 2 additional <a href="https://www.wowhead.com/npc=158367/basher-tentacle">Basher Tentacle</a> groups. After this is when the second <a href="https://www.wowhead.com/npc=158376/psychus">Psychus</a> group will enter their <a href="https://www.wowhead.com/spell=309046/mindgate">Mindgate</a>.</p>
 <p class="msg msg--warning"><strong>Psychus 2</strong> - 9 players should go into the second <a href="https://www.wowhead.com/npc=158376/psychus">Psychus</a> phase and kill up to 8 of the <a href="https://www.wowhead.com/npc=159578/exposed-synapse">Exposed Synapses</a> to defeat <a href="https://www.wowhead.com/npc=158376/psychus">Psychus</a>. The group should consist of 2 healers, 1 tank, and 6 DPS, and you will likely need to assign cooldowns to successfully defeat <a href="https://www.wowhead.com/npc=158376/psychus">Psychus</a> before you run out of room. The movement of <a href="https://www.wowhead.com/npc=158376/psychus">Psychus</a> is different from the first group, but the majority of the mechanics are still the same - you need to dodge the <a href="https://www.wowhead.com/npc=163947/psychophage">Psychophage</a> adds, kill the <a href="https://www.wowhead.com/npc=159578/exposed-synapse">Exposed Synapses</a>, and kill <a href="https://www.wowhead.com/npc=158376/psychus">Psychus</a> before the 4th Black Volley. Also, this group will have <a href="https://www.wowhead.com/spell=315709/tread-lightly">Tread Lightly</a>, which will cause you to take Contempt damage every time you move. To avoid this, this group should consist mostly of ranged players and at least 1 warlock as you need to use a <a href="https://www.wowhead.com/spell=111771/demonic-gateway">warlock gateway</a> as a group as soon as you enter the <a href="https://www.wowhead.com/spell=309046/mindgate">Mindgate</a>. Once <a href="https://www.wowhead.com/npc=158376/psychus">Psychus</a> is defeated, you can click on your body to <a href="https://www.wowhead.com/spell=309307/restore-consciousness">Restore Consciousness</a> and begin the second N'zoth burn phase and start Phase 2. At the end of this burn phase you should use 2 - 3 of your <a href="https://www.wowhead.com/spell=318761/azeroths-radiance">Heart of Azeroth</a>'s to 'reset' everyone's sanity back to 100 before Phase 2.</p>
 <hr>
 <h2 id="mcetoc_1eb6dvp5ojk">Phase 2 - Thought Harvesters</h2>
+<p> </p>
+<table style="border-collapse: collapse; width: 100%; border-style: hidden;" border="0">
+<tbody>
+<tr>
+<td style="width: 33.3333%;"><address>Talent 1</address></td>
+<td style="width: 33.3333%;"><address>Talent 2</address></td>
+<td style="width: 33.3333%;"><address>Talent 3</address></td>
+</tr>
+<tr>
+<td class="align-left" style="width: 33.3333%;">When the first set of <br><a href="https://www.wowhead.com/npc=162933/thought-harvester">Thought Harvesters</a> have spawned, Phase 2 has officially begun. Each set of <a href="https://www.wowhead.com/npc=162933/thought-harvester">Thought Harvesters</a> will cas</td>
+<td style="width: 33.3333%;">
+<p>t cast of <a href="https://www.wowhead.com/spell=317066/harvest-thoughts">Harvest Thoughts</a> should be soaked as a group on top of the boss, paired with a stacked healing CD like <a href="https://www.wowhead.com/spell=62618/power-word-barrier">Power Word: Barrier</a> or <a href="https://www.wowhead.com/spell=98008/spirit-link-totem">Spirit Link Totem</a> as the first <a href="https://www.wowhead.com/spell=317102/evoke-anguish">Evoke Anguish</a></p>
+</td>
+<td style="width: 33.3333%;">
+<pre>w shortly after. To make this phase easier to follow, I'm instead going to give a TLDR of what will b</pre>
+</td>
+</tr>
+</tbody>
+</table>
 <p>When the first set of <a href="https://www.wowhead.com/npc=162933/thought-harvester">Thought Harvesters</a> have spawned, Phase 2 has officially begun. Each set of <a href="https://www.wowhead.com/npc=162933/thought-harvester">Thought Harvesters</a> will cast one <a href="https://www.wowhead.com/spell=317066/harvest-thoughts">Harvest Thoughts</a> each, and should die before the 2nd cast finishes. The first cast of <a href="https://www.wowhead.com/spell=317066/harvest-thoughts">Harvest Thoughts</a> should be soaked as a group on top of the boss, paired with a stacked healing CD like <a href="https://www.wowhead.com/spell=62618/power-word-barrier">Power Word: Barrier</a> or <a href="https://www.wowhead.com/spell=98008/spirit-link-totem">Spirit Link Totem</a> as the first <a href="https://www.wowhead.com/spell=317102/evoke-anguish">Evoke Anguish</a> will follow shortly after. To make this phase easier to follow, I'm instead going to give a TLDR of what will be happening around each <a href="https://www.wowhead.com/spell=317102/evoke-anguish">Evoke Anguish</a> cast. It is worth noting that <a href="https://www.wowhead.com/spell=317102/evoke-anguish">Evoke Anguish</a> 1 + 2 are the best times to use stacked raid CD's such as <a href="https://www.wowhead.com/spell=196718/darkness">Darkness</a>, <a href="https://www.wowhead.com/spell=98008/spirit-link-totem">Spirit Link Totem</a>, <a href="https://www.wowhead.com/spell=62618/power-word-barrier">Power Word: Barrier</a> as the other casts require you to be spread out.</p>
 <p><strong>Evoke Anguish 1</strong> - Stacked on top of the boss for the initial application before sprinting to the edge of the room where you should drop your first set of <a href="https://www.wowhead.com/spell=309991/anguish">Anguish</a> pools. This is followed by the first <a href="https://www.wowhead.com/spell=317874/stupefying-glare">Stupifying Glare</a> that will travel to the left, so you should aim to beat these beams to the right if possible to minimize movement. </p>
 <p><strong>Evoke Anguish 2</strong> - Shortly after the first <a href="https://www.wowhead.com/spell=317874/stupefying-glare">Stupifying Glare</a>, you should drop these pools as close to your previous <a href="https://www.wowhead.com/spell=309991/anguish">Anguish</a> pools as you can (note: previous <a href="https://www.wowhead.com/spell=309991/anguish">Anguish</a> pools will grow slightly during this time, so make sure you aren't too close). After you have dropped your 2nd <a href="https://www.wowhead.com/spell=309991/anguish">Anguish</a> pools you there will be a <a href="https://www.wowhead.com/spell=309980/paranoia">Paranoia</a> Cast followed by a <a href="https://www.wowhead.com/spell=315772/mindgrasp">Mindgrasp</a>. Sanity is not as important in this phase, so you should instead aim to meet up with your partner as quickly as possible, even if it means you have to run through a player or two to get there.</p>
@@ -780,7 +799,7 @@
         <id>https://niseko.github.io/ancestralguidance/ilgynoth/</id>
             <category term="Boss Guides"/>
 
-        <updated>2020-06-19T16:29:22+02:00</updated>
+        <updated>2020-06-19T16:45:37+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://niseko.github.io/ancestralguidance/media/posts/79/ilgynoth.jpg" alt="" />
@@ -820,7 +839,7 @@
         <id>https://niseko.github.io/ancestralguidance/carapace-of-nzoth/</id>
             <category term="Boss Guides"/>
 
-        <updated>2020-06-19T16:29:22+02:00</updated>
+        <updated>2020-06-19T16:45:37+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://niseko.github.io/ancestralguidance/media/posts/80/carapace.jpg" alt="" />
@@ -867,7 +886,7 @@
         <id>https://niseko.github.io/ancestralguidance/drestagath/</id>
             <category term="Boss Guides"/>
 
-        <updated>2020-06-19T16:29:22+02:00</updated>
+        <updated>2020-06-19T16:45:37+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://niseko.github.io/ancestralguidance/media/posts/77/drestagath.jpg" alt="" />
@@ -903,7 +922,7 @@
         <id>https://niseko.github.io/ancestralguidance/xanesh/</id>
             <category term="Boss Guides"/>
 
-        <updated>2020-06-19T16:29:22+02:00</updated>
+        <updated>2020-06-19T16:45:37+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://niseko.github.io/ancestralguidance/media/posts/74/xanesh.jpg" alt="" />
@@ -940,7 +959,7 @@
         <id>https://niseko.github.io/ancestralguidance/shadhar/</id>
             <category term="Boss Guides"/>
 
-        <updated>2020-06-19T16:29:22+02:00</updated>
+        <updated>2020-06-19T16:45:37+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://niseko.github.io/ancestralguidance/media/posts/73/shadar.jpg" alt="" />
@@ -980,7 +999,7 @@
         <id>https://niseko.github.io/ancestralguidance/ra-den/</id>
             <category term="Boss Guides"/>
 
-        <updated>2020-06-19T16:29:22+02:00</updated>
+        <updated>2020-06-19T16:45:37+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://niseko.github.io/ancestralguidance/media/posts/76/raden.jpg" alt="" />
@@ -1024,7 +1043,7 @@ When the boss absorbs Void it will trigger <a href="https://www.wowhead.com/spel
         <id>https://niseko.github.io/ancestralguidance/vexiona/</id>
             <category term="Boss Guides"/>
 
-        <updated>2020-06-19T16:29:22+02:00</updated>
+        <updated>2020-06-19T16:45:37+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://niseko.github.io/ancestralguidance/media/posts/75/vexiona.jpg" alt="" />
@@ -1064,7 +1083,7 @@ When the boss absorbs Void it will trigger <a href="https://www.wowhead.com/spel
         <id>https://niseko.github.io/ancestralguidance/hivemind/</id>
             <category term="Boss Guides"/>
 
-        <updated>2020-06-19T16:29:22+02:00</updated>
+        <updated>2020-06-19T16:45:37+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://niseko.github.io/ancestralguidance/media/posts/72/hivemind.jpg" alt="" />
